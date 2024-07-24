@@ -1,18 +1,24 @@
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there! <br><br>
 
-I'm Aanandhi Sonduri Panthangi, a passionate computer science enthusiast pursuing a Master's degree from the University of Southern California (USC) and holding a Bachelor's degree from SRM Institute of Science and Technology. Throughout my academic journey, I've delved into various aspects of computer science, from analysis of algorithms to web technologies and machine learning.
+:
 
-- 👉 My technical expertise includes languages like Python, JavaScript, C, C++, HTML/CSS, and proficiency in databases like MongoDB, PostgreSQL, SQL Server, MySQL, along with tools like Git, GitHub, and Version Control.
+- 👋 Hey there! I’m Aanandhi Sonduri Panthangi, a passionate computer science enthusiast currently diving into my Master’s degree at USC. My journey in tech began with a Bachelor’s in Computer Science from SRM Institute of Science and Technology, and since then, I’ve been hooked on crafting innovative solutions and exploring new tech.
 
-- 💡 I've explored machine learning technologies such as Pandas, NumPy, PyTorch, Keras, Scikit Learn, and frameworks like React.js, Angular, Express.js, Node.js, Flask, Swift, and Google Cloud Platform. Additionally, I've worked with Postman, Docker, Jenkins, and .NET.
+- 💻 Full-Stack Development: I love building dynamic web apps and creating smooth, user-friendly experiences. I’m skilled in React.js, Angular, Node.js, Flask, and .NET. My toolbox includes MongoDB, MySQL, Docker, and Google Cloud Platform to ensure everything runs smoothly and scales effortlessly.
 
-- 📊 I've gained practical experience through internships, including my role as a Software Engineer Intern at IBM, where I contributed to projects using Agile methodologies, Python scripting for data extraction, and web application development with Flask and JavaScript.
+- 🤖 Machine Learning: I’m also fascinated by machine learning. From developing models with Pandas, NumPy, PyTorch, Keras, and Scikit Learn, to working on cool projects like predictive text generation and color detection, I enjoy finding patterns and insights from data.
+
+
+
+
+
 
 - 📚 My research papers are available on [IEEE Explore](https://ieeexplore.ieee.org/document/9702842)
 
 <br />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to check out my projects or drop me a message if you want to chat about tech!</h3>
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/aanandhi-sonduri-a814a31a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
