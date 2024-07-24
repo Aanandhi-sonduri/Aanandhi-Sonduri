@@ -1,8 +1,6 @@
-### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there! <br><br>
+### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there! <br>
 
-:
-
-- 👋 Hey there! I’m Aanandhi Sonduri Panthangi, a passionate computer science enthusiast currently diving into my Master’s degree at USC. My journey in tech began with a Bachelor’s in Computer Science from SRM Institute of Science and Technology, and since then, I’ve been hooked on crafting innovative solutions and exploring new tech.
+- I’m Aanandhi Sonduri Panthangi, a passionate computer science enthusiast currently diving into my Master’s degree at USC. My journey in tech began with a Bachelor’s in Computer Science from SRM Institute of Science and Technology, and since then, I’ve been hooked on crafting innovative solutions and exploring new tech.
 
 - 💻 Full-Stack Development: I love building dynamic web apps and creating smooth, user-friendly experiences. I’m skilled in React.js, Angular, Node.js, Flask, and .NET. My toolbox includes MongoDB, MySQL, Docker, and Google Cloud Platform to ensure everything runs smoothly and scales effortlessly.
 
