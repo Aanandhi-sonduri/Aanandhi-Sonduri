@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aanandhi-sonduri-a814a31a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://sampat20.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-sigma-jet-56.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <h1 align="center" style="font-size: 2em;"> 🚀 <strong>Technology Stack</strong></h1>
